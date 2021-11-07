@@ -616,7 +616,7 @@
         margin-right: 5px;
         width: 350px;
         height: 180px;
-        background-color: goldenrod;
+        background-color: #34BE82;
         box-shadow: 0 12px 10px 0 rgba(0,0,0, .5);
         float: right;
         border-radius: 5px;
@@ -626,7 +626,7 @@
         margin-left: 5px;
         width: 350px;
         height: 180px;
-        background-color: #113CFC;
+        background-color: goldenrod;
         box-shadow: 0 12px 10px 0 rgba(0,0,0, .5);
         border-radius: 5px;
       }
