@@ -567,7 +567,7 @@
    transition-duration: 0.5s;
    cursor: pointer;
 }
-@media (max-width: 600px){
+@media (max-width: 890px){
     .navbar ul{
        width: 100%;
     }
